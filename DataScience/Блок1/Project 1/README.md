@@ -1,17 +1,17 @@
 # Проект 1. Анализ резюме из Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Результат)    
-[6. Выводы](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Выводы) 
+[1. Описание проекта](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Результат)    
+[6. Выводы](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Выводы) 
 
 ### Описание проекта    
 Проект по преобразованию, исследованию и очистке данных Data Frame
 
-:arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -35,7 +35,7 @@
 - Обновление резюме - дата последнего обновления резюме на сайте HeadHunter
 - Авто - индиватор наличия личного авто
   
-:arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -44,13 +44,13 @@
 3. __Исследование зависимостей в данных__: разведывательнй анализ (EDA), предназначенный для выявления связей между признаками, выявления закономерностей, определения распределений признаков, поиска аномалий и других дефектов данных.
 4. __Очистка данных__: очистка данных от "аномальных" значений и выбросов: пропуски, гигантские размеры желаемых заработных плат, резюме людей слишком «преклонного» возраста, опыт работы, превышающий возраст.
 
-:arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
 
 
 ### Результаты:  
 В результате выполненной раблты мы получили датасет, оичщеный и преобразованный, готовый к дальнейшей работе по построению модели
 
-:arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
 
 
 ### Выводы:  
@@ -58,4 +58,4 @@
 
 В вопросе визуализвации наиболее удобным инструментом является библиотека ***Plotly***. Данный метод визуализации хоть и ресурсозатратный но благодаря интерактивности является более информативным. 
 
-:arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/Module8_HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
