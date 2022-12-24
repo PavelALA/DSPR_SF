@@ -19,7 +19,7 @@
 
 
 ### Краткая информация о данных
-[Ссылка](https://drive.google.com/file/d/1gdtlphwvJGRHuoqyZWFZD--4Zc1TX4kf/view?usp=share_link)  база резюме, выгруженная с сайта поиска вакансий hh.ru.
+[Ссылка](https://drive.google.com/file/d/1gdtlphwvJGRHuoqyZWFZD--4Zc1TX4kf/view?usp=share_link)  на базу резюме, выгруженную с сайта поиска вакансий hh.ru.
 
 Мы будем работать со следующими столбцами:
 - Пол, возраст - указание пола и возраста соискателя и даты рождения соискателя
