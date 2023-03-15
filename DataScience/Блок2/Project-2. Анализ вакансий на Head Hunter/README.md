@@ -1,17 +1,17 @@
 # Проект 2. Анализ вакансий из Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Результаты)    
-[6. Выводы](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Выводы) 
+[1. Описание проекта](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Результаты)    
+[6. Выводы](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Выводы) 
 
 ### Описание проекта    
 Проект по составлению SQL-запросов и анализу полученных результатов.
 
-:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -50,7 +50,7 @@
     - **employer_id** - int4 - ID работодателя:
     - **industry_id** - archar(10) - ID сферы деятельности;
   
-:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -59,16 +59,16 @@
 3. __Анализ работодателй__: ознакомление и анализ данных предлставленных а датасете о работодателях: численность вакасий, задействованность в регионах, указание сфер деятельности.
 4. __Предметный анализ__: анализ вакансий и работодателей на востребованность специализации DataScientist, количество таких вакансий, рапределение по уровням знаний, опыта и оплаты труда, выявление основных требований к данной специальности, определение наиблее востребованного рабочего времени и типа трудоустройства.
 
-:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Оглавление)
 
 
 ### Результаты:  
 В результате выполненной работы мы получили анлиз по каждому этапу и обощенный анализ, в которых выявляем осноыне связи данных, дальнейшее направление исследования а также возможные ошибки в данных, которые могут повлиять на дальнейшее моделирование. 
 
-:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Оглавление)
 
 
 ### Выводы:  
 По результатам нализа данных получаем направление дальнешей работы по исследованию данных.
 
-:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок1/Project%201/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelALA/Project_1/blob/master/DataScience/Блок2/Project-2.%20Анализ%20вакансий%20на%20Head%20Hunter/README.md#Оглавление)
